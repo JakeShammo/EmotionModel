@@ -1,0 +1,1 @@
+Emotional model for emoBot
